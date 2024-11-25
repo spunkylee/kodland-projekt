@@ -1,1 +1,1 @@
-# kodland-projekt
+Strona internetowa o globalnym ociepleniu
